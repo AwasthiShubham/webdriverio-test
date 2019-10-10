@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="facebook_com_page" timestamp="2019-09-12T11:47:57" time="20.16" tests="3" failures="0" errors="0" skipped="0">
+  <testsuite name="facebook_com_page" timestamp="2019-10-10T14:45:08" time="14.667" tests="3" failures="0" errors="0" skipped="0">
     <properties>
       <property name="specId" value="0"/>
       <property name="suiteName" value="facebook.com page"/>
-      <property name="capabilities" value="chrome.76_0_3809_132.windowsnt"/>
+      <property name="capabilities" value="chrome.77_0_3865_90.windowsnt"/>
       <property name="file" value=".\test\specs\basic.js"/>
     </properties>
-    <testcase classname="chrome.76_0_3809_132.windowsnt.facebook_com_page" name="should_have_the_right_title" time="3"/>
-    <testcase classname="chrome.76_0_3809_132.windowsnt.facebook_com_page" name="should_be_able_to_login" time="14.696"/>
-    <testcase classname="chrome.76_0_3809_132.windowsnt.facebook_com_page" name="should_be_able_to_click_on_profile" time="2.443"/>
+    <testcase classname="chrome.77_0_3865_90.windowsnt.facebook_com_page" name="should_have_the_right_title" time="1.777"/>
+    <testcase classname="chrome.77_0_3865_90.windowsnt.facebook_com_page" name="should_be_able_to_login" time="11.366"/>
+    <testcase classname="chrome.77_0_3865_90.windowsnt.facebook_com_page" name="should_be_able_to_click_on_profile" time="1.517"/>
   </testsuite>
 </testsuites>
